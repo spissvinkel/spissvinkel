@@ -1,4 +1,4 @@
-### Moving to `codeberg.org`
+### Migrating to `codeberg.org`
 
 I am in the process of switching to Codeberg as my main Git host
 
